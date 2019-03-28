@@ -1,3 +1,5 @@
+
+//HackeRank 002 Data types
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
